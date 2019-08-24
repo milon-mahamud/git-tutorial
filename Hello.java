@@ -7,4 +7,7 @@ public class Hello{
    public static void greeting(String name){
       System.out.println('Welcome' + name)
    }
+   public static int sqr(int *){
+      return x * x
+   }
 }
